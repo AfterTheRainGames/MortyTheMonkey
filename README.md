@@ -1,6 +1,6 @@
 # Morty the Monkey
 **Game Jam Submission**  
-**ACTION Theme | Limitation: From the Top | December 6-8, 2024*
+*ACTION Theme | Limitation: From the Top | December 6-8, 2024*
 
 ## Overview  
 Morty the Monkey puts players in control of a nimble monkey with a snake for a grappling hook. Swing through the vibrant environment, master momentum-based movement, and conquer challenging obstacles as you race to get Morty home in record time.  
